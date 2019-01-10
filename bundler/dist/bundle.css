@@ -1,0 +1,32 @@
+/*##Bundle from ./src start*/
+
+/*##Bundle from ./styles start*/
+
+/*##Bundle from ./default start*/
+
+.default-style {
+  background-color: red;
+}
+/*##Bundle from ./default end*/
+
+.nested-styles {
+  margin: 150%;
+}
+/*##Bundle from ./styles end*/
+
+
+
+.first-css {
+  margin: 0;
+}
+
+.second-css {
+  margin: 50;
+}
+
+.third-css {
+  margin: 100%;
+}
+
+/*##Bundle from ./src end*/
+
